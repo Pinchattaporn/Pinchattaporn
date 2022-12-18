@@ -16,7 +16,7 @@
 
 <h1 align="center">
    I'm Chattaporn
-  <img src="https://media.giphy.com/media/Od7ni7IRVbqz6/giphy.gif" width="50px" align="center"  />
+  <img src="https://media.giphy.com/media/t0SMqPCEx1hYI/giphy.gif" width="150px" align="center"  />
 </h1>
 
 <div align="center">
