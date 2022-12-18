@@ -20,7 +20,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/t0SMqPCEx1hYI/giphy.gif" width="50px" align="center"  />
-   <font size="20">I'm Chattaporn </font>
+   <font size="16">I'm Chattaporn </font>
   <img src="https://media.giphy.com/media/t0SMqPCEx1hYI/giphy.gif" width="50px" align="center"  />
 </h1>
 
