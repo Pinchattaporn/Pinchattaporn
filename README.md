@@ -14,6 +14,10 @@
   </a>
 </div>
 
+<div id="badges" align="center">
+ <img src="https://Pinchattaporn.com/ghpvc/?username=Pinchattaporn&style=flat-square&color=blue" alt=""/>
+</div>
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/t0SMqPCEx1hYI/giphy.gif" width="80px" align="center"  />
    I'm Chattaporn
@@ -27,8 +31,12 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Pinchattaporn&theme=radical">
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pinchattaporn&theme=jolly&show_icons=true">
+</div>
 
- <div align="center">
+<div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinchattaporn&layout=center&theme=radical">
 </div>
+
