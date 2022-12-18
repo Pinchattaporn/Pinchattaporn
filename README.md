@@ -1,6 +1,5 @@
 ### Hi there 👋
         
- ![☽ ☽ ☽ ☽ ☽](https://user-images.githubusercontent.com/110905426/208280782-6a8b4586-d0b4-4514-b5a9-5d62df7db638.gif)
 
 <!--
 **Pinchattaporn/Pinchattaporn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
