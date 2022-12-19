@@ -15,7 +15,7 @@
 </div>
 
 <div id="badges" align="center">
- <img src="https://Pinchattaporn.com/ghpvc/?username=Pinchattaporn&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=Pinchattaporn&style=for-the-badge&color=blue" alt=""/>
 </div>
 
 <h1 align="center">
