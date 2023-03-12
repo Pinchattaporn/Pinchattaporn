@@ -3,6 +3,12 @@
 </div>
 
 <div id="badges" align="center">
+  <a href="https://wakatime.com/@2040fa6f-c3aa-4d8e-86a5-baa3871fbbd9">
+    <img src="https://wakatime.com/badge/user/2040fa6f-c3aa-4d8e-86a5-baa3871fbbd9.svg" alt="Total time coded since Feb 6 2023" />
+  </a>
+</div>
+
+<div id="badges" align="center">
   <a href="https://www.facebook.com/profile.php?id=100005547251293">
     <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
